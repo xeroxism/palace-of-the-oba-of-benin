@@ -1,0 +1,91 @@
+* {
+    border-radius: 0 !important;
+   }
+
+nav {
+	font-family: 'Cinzel', sans-serif;
+}
+
+.navbar-brand {
+	background-color: #f22613;
+}
+
+.jumbotron{
+	background: url(https://travelholique.files.wordpress.com/2015/12/img_08762.jpg?w=750) no-repeat;
+	background-size: cover;
+	background-position: center center;
+	padding-top: 200px !important;
+	margin: 0px !important;
+}
+.jumbotron p{
+	font-family: 'Old Standard TT', cursive;
+	color: #ffffff;
+}
+
+
+.main_container{
+	 box-shadow: 0 0 15px 5px rgba(31, 73, 125, 0.8);
+     -moz-box-shadow: 0 0 15px 5px rgba(31, 73, 125, 0.8);
+     -webkit-box-shadow: 0 0 15px 5px rgba(31, 73, 125, 0.8);
+     -o-box-shadow: 0 0 15px 5px rgba(31, 73, 125, 0.8);
+}
+
+
+p{
+	font-family: 'Josefin Sans', 'Cantarell', sans-serif;
+	font-size: 20px;
+	padding-left: 70px;
+	padding-right: 70px;
+}
+
+h2{
+	font-family:'Raleway', 'Josefin Sans', serif;
+	font-weight: bolder !important;
+	color: #95281b !important;
+	padding-bottom: 50px;
+	padding-top: 20px;
+	padding-left: 70px;
+	padding-right: 70px;
+}
+
+h3{
+	font-family: 'Old Standard TT', cursive !important;
+	color: #95281b !important;
+	padding-top: 30px;
+	
+}
+
+.history_page ul{
+	font-family: 'Josefin Sans', 'Cantarell', sans-serif;
+	font-size: 20px;
+	padding-left: 70px;
+	padding-right: 70px;
+}
+
+#about{
+	background-color: #e74c3c;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+}
+
+
+#contact{
+	background-color: #e74c3c;
+	padding-bottom: 30px;
+}
+
+#carousel {
+/*max-height: 80%; width: auto; overflow: hidden;*/
+}
+
+
+#footer {
+	background-color: #95281b;
+	color: white;
+	padding: 20px;
+}
+
+iframe {
+	width: 100%;
+}
